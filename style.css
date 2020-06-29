@@ -1,0 +1,119 @@
+body
+{
+	background: url('background3.jpg') no-repeat center fixed;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.box
+{
+	width: 500px;
+	height: 500px;
+	background: rgba(0, 0, 0, 0.65);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 8%;
+	color: white;
+	font-family: 'Century Gothic', sans-serif;
+}
+.box-img
+{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.box h1
+{
+	font-size: 45px;
+	letter-spacing: 1px;
+	font-weight: 100;
+}
+.box h4
+{
+	font-size: 35px;
+	letter-spacing: 1px;
+	font-weight: 100;
+}
+.box h5
+{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box p
+{
+	font-size: 18px;
+	font-weight: 100px;
+}
+ul
+{
+	margin: 0;
+	padding: 0;
+}
+.box li
+{
+	display: inline-block;
+	margin: 6px;
+	list-style: none;	
+}
+img.rounded-corners
+{
+	border-radius: 100px;
+	margin-top: 8%;
+}
+/*Projects Page*/
+.projectBox
+{
+	width: 500px;
+	height: 550px;
+	background: rgba(0, 0, 0, 0.65);
+	padding: 20px;
+	text-align: center;
+	margin: auto;
+	margin-top: 8%;
+	color: white;
+	font-family: 'Century Gothic', sans-serif;
+}
+.projectBox-img
+{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.projectBox h1
+{
+	font-size: 45px;
+	letter-spacing: 1px;
+	font-weight: 100;
+}
+.projectBox h4
+{
+	font-size: 35px;
+	letter-spacing: 1px;
+	font-weight: 100;
+}
+.projectBox h5
+{
+	font-size: 25px;
+	letter-spacing: 0px;
+	font-weight: 100;
+}
+.projectBox p
+{
+	font-size: 18px;
+	font-weight: 100px;
+}
+.projectBox li
+{
+	display: inline-block;
+	margin: 6px;
+	list-style: none;	
+}
+img.rounded-corners-projects
+{
+	border-radius: 10px;
+}
+	
+	
+	
